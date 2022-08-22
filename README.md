@@ -106,6 +106,7 @@ This is a curated list of resources to help people protect themselves from the t
 ## Create Strong Passwords
 
 ![xkcd: Password Strength](https://imgs.xkcd.com/comics/password_strength.png)
+Source: [https://xkcd.com/936](https://xkcd.com/936)
 
 ### Diceware
 
