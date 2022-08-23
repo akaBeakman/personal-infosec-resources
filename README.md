@@ -198,7 +198,8 @@ Source: [https://xkcd.com/936](https://xkcd.com/936)
 * [WhatsApp](https://www.whatsapp.com)
     * [How to: Use WhatsApp on iOS — Surveillance Self-Defense](https://ssd.eff.org/en/module/how-use-whatsapp-ios)
     * [How to: Use WhatsApp on Android — Surveillance Self-Defense](https://ssd.eff.org/en/module/how-use-whatsapp-android)
-* iMessage
+* Apple iMessage
+* Apple FaceTime
 
 ## Avoid Scams
 
