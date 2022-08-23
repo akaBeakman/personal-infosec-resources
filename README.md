@@ -111,6 +111,15 @@ This is a curated list of resources to help people protect themselves from the t
 
 Source: [https://xkcd.com/936](https://xkcd.com/936)
 
+### Mobile Device Passcodes
+
+#### iOS
+
+* Use a custom numeric code (longer than six digits) or a custom alphanumeric code as opposed to the default six-digit passcode
+* [Upgrade Your iPhone Passcode to Defeat the FBI's Backdoor Strategy — The Intercept](https://theintercept.com/2016/02/18/passcodes-that-can-defeat-fbi-ios-backdoor/) 
+* [Use a passcode with your iPhone, iPad, or iPod touch — Apple Support](https://support.apple.com/en-us/HT204060)
+* [How to change the passcode on your iPhone, iPad, or iPod touch — Apple Support — YouTube](https://youtu.be/2t0NrqIwI2s) 
+
 ### Diceware
 
 * [Diceware — Wikipedia](https://en.wikipedia.org/wiki/Diceware)
