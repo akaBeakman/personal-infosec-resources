@@ -32,6 +32,8 @@ This is a curated list of resources to help people protect themselves from the t
 
 ### Online Guides
 
+* [How to Disable Ad ID Tracking on iOS and Android, and Why You Should Do It Now — Electronic Frontier Foundation](https://www.eff.org/deeplinks/2022/05/how-disable-ad-id-tracking-ios-and-android-and-why-you-should-do-it-now)
+
 #### Home Networks
 
 * [Securing Your Home Network — National Cybersecurity Alliance](https://staysafeonline.org/resources/securing-your-home-network/)
