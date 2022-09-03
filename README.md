@@ -23,6 +23,13 @@ This is a curated list of resources to help people protect themselves from the t
 
 ## Learn to Use and Secure Your Devices
 
+### Videos
+
+#### iOS, macOS, and iCloud
+
+* [What is an Apple ID? — Apple Support — YouTube](https://youtu.be/jzM_PqEZz-g)
+* [What is two-factor authentication? — Apple Support — YouTube](https://youtu.be/gL2BxLfJMec)
+
 ### Online Guides
 
 #### Home Networks
