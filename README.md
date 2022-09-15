@@ -4,7 +4,9 @@ This is a curated list of resources to help people protect themselves from the t
 
 *A note about Wirecutter links: The creation of a free Times account can be avoided, if necessary, by [viewing Google's cached copy of the page](https://support.google.com/websearch/answer/1687222).*
 
-## United States Government Resources
+## General Resources
+
+### United States Government Resources
 
 * [Consumer Advice — Federal Trade Commission](https://consumer.ftc.gov/)
     * [Identity Theft and Online Security — Consumer Advice — Federal Trade Commission](https://consumer.ftc.gov/identity-theft-and-online-security)
@@ -12,7 +14,7 @@ This is a curated list of resources to help people protect themselves from the t
 * [Cybersecurity — Ready.gov](https://www.ready.gov/cybersecurity)
 * [On the Internet: Be Cautious When Connected — Scams and Safety — Federal Bureau of Investigation](https://www.fbi.gov/scams-and-safety/on-the-internet)
 
-## Non-governmental General Resources
+### Non-governmental Resources
 
 * [National Cybersecurity Alliance](https://staysafeonline.org/)
     * [Online Safety Basics — National Cybersecurity Alliance](https://staysafeonline.org/resources/online-safety-basics/)
