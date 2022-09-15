@@ -20,6 +20,8 @@ This is a curated list of resources to help people protect themselves from the t
 * [Surveillance Self-Defense — Electronic Frontier Foundation](https://ssd.eff.org)
 * [Krebs on Security](https://krebsonsecurity.com)
     * “In-depth security news and investigation”
+* [SANS OUCH! Newsletter](https://www.sans.org/newsletters/ouch/)
+    * “OUCH! is the world's leading, free security awareness newsletter designed for everyone.”
 
 ## Learn to Use and Secure Your Devices
 
