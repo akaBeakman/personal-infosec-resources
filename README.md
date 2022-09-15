@@ -93,6 +93,7 @@ This is a curated list of resources to help people protect themselves from the t
 
 ### iOS
 
+* [How to update your iPhone — Apple Support — YouTube](https://youtu.be/1FcE86kwODQ)
 * [Update your iPhone, iPad, or iPod touch — Apple Support](https://support.apple.com/en-us/HT204204)
 * [How to manually update apps on your Apple device — Apple Support](https://support.apple.com/en-us/HT202180)
 
