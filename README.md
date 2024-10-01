@@ -2,8 +2,6 @@
 
 This is a curated list of resources to help people protect themselves from the typical threats we all face.
 
-*A note about Wirecutter links: The creation of a free Times account can be avoided, if necessary, by [viewing Google's cached copy of the page](https://support.google.com/websearch/answer/1687222).*
-
 ## General Resources
 
 ### United States Government Resources
