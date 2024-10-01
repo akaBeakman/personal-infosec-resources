@@ -67,9 +67,8 @@ This is a curated list of resources to help people protect themselves from the t
 
 #### iOS, macOS, and iCloud
 
-* [Take Control of iOS & iPadOS Privacy and Security — Take Control Books](https://www.takecontrolbooks.com/ios-ipados-privacy-security/)
-* [Take Control of Securing Your Mac — Take Control Books](https://www.takecontrolbooks.com/securing-mac/)
-* [Take Control of Your Apple ID — Take Control Books](https://www.takecontrolbooks.com/apple-id/)
+* [Take Control of Securing Your Apple Devices — Take Control Books](https://www.takecontrolbooks.com/securing-apple-devices/)
+* [Take Control of Your Apple Account — Take Control Books](https://www.takecontrolbooks.com/apple-account/)
 
 #### Home Networks
 
