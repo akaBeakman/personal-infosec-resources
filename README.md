@@ -49,7 +49,7 @@ This is a curated list of resources to help people protect themselves from the t
 
 #### Android
 
-* [Android — Guidebooks — Google](https://guidebooks.google.com/)
+* [Android — Guidebooks — Google](https://guidebooks.google.com/android)
 * [Pixel Phone Help — Google](https://support.google.com/pixelphone/)
 * [Manuals & Software — Samsung Support](https://www.samsung.com/us/support/downloads/)
 
