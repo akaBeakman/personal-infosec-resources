@@ -28,7 +28,7 @@ This is a curated list of resources to help people protect themselves from the t
 
 #### iOS, macOS, and iCloud
 
-* [What is an Apple ID? — Apple Support — YouTube](https://youtu.be/jzM_PqEZz-g)
+* [What is an Apple Account — Apple Support — YouTube](https://youtu.be/EFJ1u3ezvYs)
 * [What is two-factor authentication? — Apple Support — YouTube](https://youtu.be/gL2BxLfJMec)
 
 ### Online Guides
