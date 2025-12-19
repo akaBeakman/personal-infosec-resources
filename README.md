@@ -17,6 +17,8 @@ This is a curated list of resources to help people protect themselves from the t
 * [National Cybersecurity Alliance](https://staysafeonline.org/)
     * [Online Safety Basics — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/online-safety-basics)
 * [Surveillance Self-Defense — Electronic Frontier Foundation](https://ssd.eff.org)
+* [Take9](https://pausetake9.org)
+* [Consumer Reports Security Planner](https://securityplanner.consumerreports.org)
 * [Krebs on Security](https://krebsonsecurity.com)
     * “In-depth security news and investigation”
 * [SANS OUCH! Newsletter](https://www.sans.org/newsletters/ouch/)
