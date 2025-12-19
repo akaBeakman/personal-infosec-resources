@@ -76,7 +76,6 @@ This is a curated list of resources to help people protect themselves from the t
 
 ## Back Up Your Data
 
-* [How to Back Up Your Computer — Wirecutter](https://www.nytimes.com/wirecutter/guides/how-to-back-up-your-computer/)
 * [Backups — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/backups)
 * [How to back up your iPhone, iPad, and iPod touch — Apple Support](https://support.apple.com/en-us/118426)
 * [Back up or restore data on your Android device — Android Help — Google](https://support.google.com/android/answer/2819582)
