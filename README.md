@@ -293,7 +293,6 @@ Never store your passwords in a spreadsheet, a text file, or any other type of u
     * [AnnualCreditReport.com](https://www.annualcreditreport.com/)
 * Freeze your credit
     * [Credit Freezes and Fraud Alerts — Consumer Advice — Federal Trade Commission](https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts)
-    * [Credit Freeze — ID Theft Prevention — Indiana Attorney General](https://www.in.gov/attorneygeneral/consumer-protection-division/id-theft-prevention/protect/credit-freeze/)
 * Opt out of firm offers of credit and insurance
     * [OptOutPrescreen.com](https://www.optoutprescreen.com/)
 
