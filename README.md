@@ -180,7 +180,7 @@ Source: [https://xkcd.com/936](https://xkcd.com/936)
 * [Upgrade Your iPhone Passcode to Defeat the FBI's Backdoor Strategy — The Intercept](https://theintercept.com/2016/02/18/passcodes-that-can-defeat-fbi-ios-backdoor/)
     * In this article, Micah Lee explains the comparative strength of random, numeric passcodes of different lengths, how to set a custom numeric code, and other tips for securing your iPhone
 * [Use a passcode with your iPhone, iPad, or iPod touch — Apple Support](https://support.apple.com/en-us/119586)
-* [How to change your passcode and turn on Stolen Device Protection on iPhone — Apple Support — YouTube](https://youtu.be/p7SLWJzdIj8) 
+* [How to change your passcode and turn on Stolen Device Protection on iPhone — Apple Support — YouTube](https://youtu.be/p7SLWJzdIj8)
 
 ### Diceware
 
