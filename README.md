@@ -12,7 +12,7 @@ This is a curated list of resources to help people protect themselves from the t
     * [Scams — Consumer Advice — Federal Trade Commission](https://consumer.ftc.gov/scams)
 * [Frauds, Scams and Alerts — Consumer Guides — Federal Communications Commission](https://www.fcc.gov/general/frauds-scams-and-alerts-guides)
 * [Cybersecurity — Ready.gov](https://www.ready.gov/cybersecurity)
-* [On the Internet: Be Cautious When Connected — Scams and Safety — Federal Bureau of Investigation](https://www.fbi.gov/scams-and-safety/on-the-internet)
+* [On the Internet: Be Cautious When Connected — Online Safety — How We Can Help You — Federal Bureau of Investigation](https://www.fbi.gov/scams-and-safety/on-the-internet)
 
 ### Non-governmental Resources
 
@@ -39,21 +39,19 @@ This is a curated list of resources to help people protect themselves from the t
 
 #### Android Phones & Tablets
 
-* [Online Security — Guidebooks — Google](https://guidebooks.google.com/online-security)
-* [Android — Guidebooks — Google](https://guidebooks.google.com/android)
-* [Google Pixel — Guidebooks — Google](https://guidebooks.google.com/pixel)
-* [Google Account Help — Google](https://support.google.com/accounts)
-* [Android Help — Google](https://support.google.com/android)
-* [Pixel Phone Help — Google](https://support.google.com/pixelphone/)
+* [User Security — Google Help](https://support.google.com/user-security)
+* [Android — Google Help](https://support.google.com/android)
+* [Pixel Phone — Google Help](https://support.google.com/pixelphone/)
+* [Google Account — Google Help](https://support.google.com/accounts)
 * [Manuals & Software — Samsung Support](https://www.samsung.com/us/support/downloads/)
 
 #### Mac
 
-* [macOS User Guide — Apple Support](https://support.apple.com/guide/mac-help/welcome/mac)
+* [Mac User Guide — Apple Support](https://support.apple.com/guide/mac-help/welcome/mac)
 
 #### Chromebook
 
-* [Chromebook Help — Google](https://support.google.com/chromebook)
+* [Chromebook — Google Help](https://support.google.com/chromebook)
 
 ### Videos
 
@@ -61,7 +59,7 @@ This is a curated list of resources to help people protect themselves from the t
 
 * [Get to know the Apple Support app for iPhone, iPad, and Apple Vision Pro — Apple Support — YouTube](https://youtu.be/tPhI3LgEYn8)
 * [What is an Apple Account — Apple Support — YouTube](https://youtu.be/EFJ1u3ezvYs)
-* [What is two-factor authentication? — Apple Support — YouTube](https://youtu.be/gL2BxLfJMec)
+* [What is two-factor authentication for Apple Account? — Apple Support — YouTube](https://youtu.be/TI7cNT5aSbE)
 
 ### Online Guides
 
@@ -103,8 +101,8 @@ This is a curated list of resources to help people protect themselves from the t
 
 ### Android Phones & Tablets
 
-* [Back up or restore data on your Android device — Android Help — Google](https://support.google.com/android/answer/2819582)
-* [Back up or restore data on your Pixel device — Pixel Phone Help — Google](https://support.google.com/pixelphone/answer/7179901)
+* [Back up or restore data on your Android device — Android — Google Help](https://support.google.com/android/answer/2819582)
+* [Back up or restore data on your Pixel device — Pixel Phone — Google Help](https://support.google.com/pixelphone/answer/7179901)
 * [Back up data on a Pixel phone — Google Help — YouTube](https://youtu.be/DnuEHsBMqWA)
 
 ### Windows PC
@@ -119,14 +117,14 @@ This is a curated list of resources to help people protect themselves from the t
 
 ### Cloud Backup Services
 
-[The Best Online Cloud Backup Service — Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-online-backup-service/)
+[The Best Online Cloud Backup Services — Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-online-backup-service/)
 
 * [Personal Computer Backup — Backblaze](https://www.backblaze.com/cloud-backup/personal)
     * [How to Install Backblaze Computer Backup — Backblaze — YouTube](https://youtu.be/IdTpN7XCn4Q)
 
 ## Update Your Software
 
-* [How To Update Your Software — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/software-updates)
+* [Why You Should Update Software For Security And How To Do It — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/software-updates)
 
 ### iPhone & iPad
 
@@ -137,8 +135,8 @@ This is a curated list of resources to help people protect themselves from the t
 
 ### Android Phones & Tablets
 
-* [Check & update your Android version — Android Help — Google](https://support.google.com/android/answer/7680439)
-* [How to update apps on Android — Google Play Help — Google](https://support.google.com/googleplay/answer/113412)
+* [Check & update your Android version — Android — Google Help](https://support.google.com/android/answer/7680439)
+* [How to update apps on Android — Google Play — Google Help](https://support.google.com/googleplay/answer/113412)
 
 ### Windows PC
 
@@ -147,17 +145,17 @@ This is a curated list of resources to help people protect themselves from the t
 
 ### Mac
 
-* [How to update macOS on your Mac — Apple Support — YouTube](https://youtu.be/qfxS-0lAVl0)
+* [How to update macOS on your Mac — Apple Support — YouTube](https://youtu.be/_y0ZEuUMz38)
 * [Update macOS on Mac — Apple Support](https://support.apple.com/en-us/108382)
 * [How to manually update apps from the App Store — Apple Support](https://support.apple.com/en-us/102629)
 
 ### Chromebook
 
-* [Update your Chromebook's operating system — Chromebook Help — Google](https://support.google.com/chromebook/answer/177889)
+* [Update your Chromebook's operating system — Chromebook — Google Help](https://support.google.com/chromebook/answer/177889)
 
 ## Create Strong Passwords
 
-* [Create And Use Strong Passwords — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/passwords)
+* [How To Create Strong Passwords (And Remember Them!) — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/passwords)
 * [Creating Strong Passwords — Surveillance Self-Defense](https://ssd.eff.org/module/creating-strong-passwords)
 
 ![xkcd: Password Strength](https://imgs.xkcd.com/comics/password_strength.png)
@@ -208,20 +206,20 @@ Never store your passwords in a spreadsheet, a text file, or any other type of u
 
 ## Use Multi-factor Authentication (MFA)
 
-* [What Is Multifactor Authentication (MFA) And Why Should You Use It? — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/multi-factor-authentication)
+* [What Is Multifactor Authentication (MFA) And How Do You Enable It? — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/multi-factor-authentication)
 * [How to: Enable Two-factor Authentication — Surveillance Self-Defense](https://ssd.eff.org/module/how-enable-two-factor-authentication)
 * [Two-factor authentication for Apple Account — Apple Support](https://support.apple.com/en-us/102660)
-* [Turn on 2-Step Verification — Google Account Help — Google](https://support.google.com/accounts/answer/185839)
+* [Turn on 2-Step Verification — Google Account — Google Help](https://support.google.com/accounts/answer/185839)
 
 ### MFA Apps
 
 [The Best Two-Factor Authentication App — Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-two-factor-authentication-app/)
 
-* [Duo](https://duo.com/product/multi-factor-authentication-mfa/duo-mobile-app)
+* [Authy](https://www.authy.com)
+* [Duo Mobile](https://duo.com/product/multi-factor-authentication-mfa/duo-mobile-app)
 * Google Authenticator
     * [Google Authenticator — Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&pcampaignid=web_share)
     * [Google Authenticator — App Store](https://apps.apple.com/us/app/google-authenticator/id388497605)
-* [Authy](https://authy.com)
 * Microsoft Authenticator
     * [Download Microsoft Authenticator — Microsoft Support](https://support.microsoft.com/en-us/account-billing/download-microsoft-authenticator-351498fc-850a-45da-b7b6-27e523b8702a)
 
@@ -272,11 +270,11 @@ Never store your passwords in a spreadsheet, a text file, or any other type of u
 
 ## Beware of Phishing
 
-* [What Is Phishing And How To Avoid It — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/phishing)
+* [What Is Phishing? How To Spot And Avoid Phishing Scams — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/phishing)
 
 ## Avoid Scams
 
-* [Common Frauds and Scams — Scams and Safety — Federal Bureau of Investigation](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams)
+* [Common Frauds and Scams — How We Can Help You — Federal Bureau of Investigation](https://www.fbi.gov/how-we-can-help-you/common-frauds-and-scams)
 * [How To Avoid a Scam — Consumer Advice — Federal Trade Commission](https://consumer.ftc.gov/articles/how-avoid-scam)
 * [What To Do if You Were Scammed — Consumer Advice — Federal Trade Commission](https://consumer.ftc.gov/articles/what-do-if-you-were-scammed)
 * [Identity Theft Guide for Individuals — Internal Revenue Service](https://www.irs.gov/identity-theft-central/identity-theft-guide-for-individuals)
@@ -315,13 +313,13 @@ Never store your passwords in a spreadsheet, a text file, or any other type of u
 * [Make an emergency call or text on iPhone or Apple Watch — Apple Support](https://support.apple.com/guide/personal-safety/emergency-call-text-iphone-apple-watch-ips4f0cd709b/)
 * [iOS 17’s Check In Feature Provides Peace of Mind and Could Even Save Lives — TidBITS](https://tidbits.com/2023/10/09/ios-17s-check-in-feature-provides-peace-of-mind-and-could-even-save-lives/)
 * [How to use Check In on your iPhone — Apple Support — YouTube](https://youtu.be/Tws0uKtLNew)
-* [Use Check In for Messages  — Apple Support](https://support.apple.com/guide/personal-safety/use-check-in-for-messages-ips56b5bc469/)
+* [Use Check In for Messages on iPhone — Apple Support](https://support.apple.com/guide/personal-safety/use-check-in-for-messages-ips56b5bc469/)
 * [How to use Roadside Assistance via satellite on iPhone — Apple Support — YouTube](https://youtu.be/gTAt1v6G5CM)
 
 ### Android Phones
 
-* [Get help during an emergency with your Android phone — Android Help — Google](https://support.google.com/android/answer/9319337)
-* [Get help in an emergency using your Pixel phone — Pixel Phone Help — Google](https://support.google.com/pixelphone/answer/7055029)
+* [Get help during an emergency with your Android phone — Android — Google Help](https://support.google.com/android/answer/9319337)
+* [Get help in an emergency using your Pixel phone — Pixel Phone — Google Help](https://support.google.com/pixelphone/answer/7055029)
 * [Get help in an emergency — Google Help — YouTube](https://youtu.be/9mgOnJ2OWxQ)
 * [Schedule a safety check on your Pixel phone — Google Help — YouTube](https://youtu.be/NsapBwmyk58)
 * [Use your Galaxy phone or tablet in emergency situations — Samsung](https://www.samsung.com/us/support/answer/ANS10001579/)
@@ -336,4 +334,4 @@ Never store your passwords in a spreadsheet, a text file, or any other type of u
 * [How to use Safety Check on your iPhone — Apple Support — YouTube](https://youtu.be/y9QX-0IVQL4)
 * [Detect unwanted trackers — Apple Support](https://support.apple.com/guide/personal-safety/detect-unwanted-trackers-ips139b15fd9/)
 * [How to locate an unknown AirTag moving with you on iPhone — Apple Support — YouTube](https://youtu.be/mGh7-IuPRR4)
-* [Find unknown trackers — Android Help](https://support.google.com/android/answer/13658562)
+* [Find unknown trackers — Android — Google Help](https://support.google.com/android/answer/13658562)
