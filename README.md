@@ -44,6 +44,7 @@ This is a curated list of resources to help people protect themselves from the t
 * [Pixel Phone — Google Help](https://support.google.com/pixelphone/)
 * [Google Account — Google Help](https://support.google.com/accounts)
 * [Manuals & Software — Samsung Support](https://www.samsung.com/us/support/downloads/)
+* [Motorola Support](https://en-us.support.motorola.com)
 
 #### Mac
 
@@ -58,8 +59,15 @@ This is a curated list of resources to help people protect themselves from the t
 #### iPhone, iPad, & Mac
 
 * [Get to know the Apple Support app for iPhone, iPad, and Apple Vision Pro — Apple Support — YouTube](https://youtu.be/tPhI3LgEYn8)
+* [Getting started with your Mac — Apple Support — YouTube](https://youtu.be/rqI6Nq9rJ74)
+* [How to reset your Mac login password — Apple Support — YouTube](https://youtu.be/iXQk2PkKZUo)
 * [What is an Apple Account — Apple Support — YouTube](https://youtu.be/EFJ1u3ezvYs)
 * [What is two-factor authentication for Apple Account? — Apple Support — YouTube](https://youtu.be/TI7cNT5aSbE)
+* [How to create an Apple Account — Apple Support — YouTube](https://youtu.be/RPLdGDbWFag)
+* [How to add trusted phone numbers to your Apple Account — Apple Support — YouTube](https://youtu.be/hgxC8XcM2wQ)
+* [How to sign in to your Apple Account — Apple Support — YouTube](https://youtu.be/bRHDYVmZva0)
+* [How to change your Apple Account password on iPhone — Apple Support — YouTube](https://youtu.be/2QR8CcB6uxg)
+* [What to do if you forgot your Apple Account password — Apple Support — YouTube](https://youtu.be/gS3Z8VzvfbM)
 
 ### Online Guides
 
@@ -98,6 +106,8 @@ This is a curated list of resources to help people protect themselves from the t
 
 * [How to back up your iPhone, iPad, and iPod touch — Apple Support](https://support.apple.com/en-us/118426)
 * [How to back up your iPhone to iCloud — Apple Support — YouTube](https://youtu.be/AcckZH-PCqQ)
+* [How to back up your iPhone or iPad with your Mac — Apple Support — YouTube](https://youtu.be/vubszeoPx9E)
+* [How to restore your iPhone from an iCloud backup — Apple Support — YouTube](https://youtu.be/-A9dSDhkw3E)
 
 ### Android Phones & Tablets
 
@@ -300,6 +310,7 @@ Never store your passwords in a spreadsheet, a text file, or any other type of u
 * [Share With Care: Staying Safe On Social Media — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/share-with-care-staying-safe-on-social-media)
 * [How to: Manage Your Digital Footprint — Surveillance Self-Defense](https://ssd.eff.org/module/how-to-manage-your-digital-footprint)
 * [What to do before you sell, give away, or trade in your iPhone or iPad — Apple Support](https://support.apple.com/en-us/109511)
+* [How to erase and reset your Mac to factory settings — Apple Support — YouTube](https://youtu.be/5ZK3KD3hmiI)
 * [How to Disable Ad ID Tracking on iOS and Android, and Why You Should Do It Now — Electronic Frontier Foundation](https://www.eff.org/deeplinks/2022/05/how-disable-ad-id-tracking-ios-and-android-and-why-you-should-do-it-now)
 * [Why You Should Opt Out of Sharing Data With Your Mobile Provider — Krebs on Security](https://krebsonsecurity.com/2023/03/why-you-should-opt-out-of-sharing-data-with-your-mobile-provider/)
 * [Guess What? HIPAA Isn’t a Medical Privacy Law — Consumer Reports](https://www.consumerreports.org/health/health-privacy/guess-what-hipaa-isnt-a-medical-privacy-law-a2469399940/)
