@@ -39,11 +39,16 @@ This is a curated list of resources to help people protect themselves from the t
 #### Android Phones & Tablets
 
 * [Android — Google Help](https://support.google.com/android)
+    * [Get started with Android — Android — Google Help](https://support.google.com/android/answer/12761388)
 * [Google Account — Google Help](https://support.google.com/accounts)
 * [User Security — Google Help](https://support.google.com/user-security)
 * [Pixel Phone — Google Help](https://support.google.com/pixelphone/)
 * [Manuals & Software — Samsung Support](https://www.samsung.com/us/support/downloads/)
 * [Motorola Support](https://en-us.support.motorola.com)
+
+#### Windows PC
+
+* [Windows Help & Learning — Microsoft Support](https://support.microsoft.com/en-us/windows/)
 
 #### Mac
 
@@ -52,6 +57,7 @@ This is a curated list of resources to help people protect themselves from the t
 #### Chromebook
 
 * [Chromebook — Google Help](https://support.google.com/chromebook)
+    * [Get started with Chromebook — Chromebook — Google Help](https://support.google.com/chromebook/answer/15458201)
 
 ### Videos
 
@@ -92,6 +98,7 @@ This is a curated list of resources to help people protect themselves from the t
 * [iPhone and iPad Basics — Take Control Books](https://www.takecontrolbooks.com/iphone-ipad-basics/)
 * [Take Control of Securing Your Apple Devices — Take Control Books](https://www.takecontrolbooks.com/securing-apple-devices/)
 * [Take Control of Your Apple Account — Take Control Books](https://www.takecontrolbooks.com/apple-account/)
+* [Take Control of FaceTime and Messages — Take Control Books](https://www.takecontrolbooks.com/facetime-messages/)
 
 #### Home Network
 
