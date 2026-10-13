@@ -154,7 +154,9 @@ This is a curated list of resources to help people protect themselves from the t
 ### Android Phones & Tablets
 
 * [Check & update your Android version — Android — Google Help](https://support.google.com/android/answer/7680439)
+* [How to check & update your Android version — Google Help — YouTube](https://youtu.be/IXyp2CjzQc0)
 * [How to update apps on Android — Google Play — Google Help](https://support.google.com/googleplay/answer/113412)
+* [How to update your Android apps — Google Help — YouTube](https://youtu.be/mYbgO6AKb1A)
 
 ### Windows PC
 
