@@ -113,13 +113,14 @@ This is a curated list of resources to help people protect themselves from the t
 * [How to back up your iPhone, iPad, and iPod touch — Apple Support](https://support.apple.com/en-us/118426)
 * [How to back up your iPhone to iCloud — Apple Support — YouTube](https://youtu.be/AcckZH-PCqQ)
 * [How to back up your iPhone or iPad with your Mac — Apple Support — YouTube](https://youtu.be/vubszeoPx9E)
+* [Restore your iPhone, iPad, or iPod touch from a backup — Apple Support](https://support.apple.com/en-us/118105)
 * [How to restore your iPhone from an iCloud backup — Apple Support — YouTube](https://youtu.be/-A9dSDhkw3E)
 
 ### Android Phones & Tablets
 
 * [Back up or restore data on your Android device — Android — Google Help](https://support.google.com/android/answer/2819582)
 * [Back up or restore data on your Pixel device — Pixel Phone — Google Help](https://support.google.com/pixelphone/answer/7179901)
-* [Back up data on a Pixel phone — Google Help — YouTube](https://youtu.be/DnuEHsBMqWA)
+* [Back up data on a Pixel phone — Google Help — YouTube](https://youtu.be/b-vzvaFzQec)
 
 ### Windows PC
 
@@ -130,13 +131,14 @@ This is a curated list of resources to help people protect themselves from the t
 
 * [Back up your Mac with Time Machine — Apple Support](https://support.apple.com/en-us/104984)
 * [How to back up your Mac with Time Machine — Apple Support — YouTube](https://youtu.be/A74Q5_YHvHU)
+* [Restore your Mac from a backup — Apple Support](https://support.apple.com/en-us/102551)
 
 ### Cloud Backup Services
 
 [The Best Online Cloud Backup Services — Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-online-backup-service/)
 
 * [Personal Computer Backup — Backblaze](https://www.backblaze.com/cloud-backup/personal)
-    * [How to Install Backblaze Computer Backup — Backblaze — YouTube](https://youtu.be/IdTpN7XCn4Q)
+    * [Get Started — Backblaze Documentation](https://www.backblaze.com/computer-backup/docs/get-started)
 
 ## Update Your Software
 
