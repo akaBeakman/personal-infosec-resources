@@ -10,7 +10,6 @@ This is a curated list of resources to help people protect themselves from the t
     * [Identity Theft and Online Security — Consumer Advice — Federal Trade Commission](https://consumer.ftc.gov/identity-theft-and-online-security)
     * [Unwanted Calls, Emails, and Texts — Consumer Advice — Federal Trade Commission](https://consumer.ftc.gov/unwanted-calls-emails-texts)
     * [Scams — Consumer Advice — Federal Trade Commission](https://consumer.ftc.gov/scams)
-* [Frauds, Scams and Alerts — Consumer Guides — Federal Communications Commission](https://www.fcc.gov/general/frauds-scams-and-alerts-guides)
 * [Cybersecurity — Ready.gov](https://www.ready.gov/cybersecurity)
 * [On the Internet: Be Cautious When Connected — Online Safety — How We Can Help You — Federal Bureau of Investigation](https://www.fbi.gov/scams-and-safety/on-the-internet)
 
@@ -30,7 +29,7 @@ This is a curated list of resources to help people protect themselves from the t
 
 ## Learn to Use and Secure Your Devices
 
-### User Manuals
+### User Manuals & Support
 
 #### iPhone & iPad
 
@@ -39,10 +38,10 @@ This is a curated list of resources to help people protect themselves from the t
 
 #### Android Phones & Tablets
 
-* [User Security — Google Help](https://support.google.com/user-security)
 * [Android — Google Help](https://support.google.com/android)
-* [Pixel Phone — Google Help](https://support.google.com/pixelphone/)
 * [Google Account — Google Help](https://support.google.com/accounts)
+* [User Security — Google Help](https://support.google.com/user-security)
+* [Pixel Phone — Google Help](https://support.google.com/pixelphone/)
 * [Manuals & Software — Samsung Support](https://www.samsung.com/us/support/downloads/)
 * [Motorola Support](https://en-us.support.motorola.com)
 
@@ -285,6 +284,7 @@ Never store your passwords in a spreadsheet, a text file, or any other type of u
 ## Avoid Scams
 
 * [Common Frauds and Scams — How We Can Help You — Federal Bureau of Investigation](https://www.fbi.gov/how-we-can-help-you/common-frauds-and-scams)
+* [Frauds, Scams and Alerts — Consumer Guides — Federal Communications Commission](https://www.fcc.gov/general/frauds-scams-and-alerts-guides)
 * [How To Avoid a Scam — Consumer Advice — Federal Trade Commission](https://consumer.ftc.gov/articles/how-avoid-scam)
 * [What To Do if You Were Scammed — Consumer Advice — Federal Trade Commission](https://consumer.ftc.gov/articles/what-do-if-you-were-scammed)
 * [Identity Theft Guide for Individuals — Internal Revenue Service](https://www.irs.gov/identity-theft-central/identity-theft-guide-for-individuals)
