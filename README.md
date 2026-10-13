@@ -146,9 +146,9 @@ This is a curated list of resources to help people protect themselves from the t
 
 ### iPhone & iPad
 
+* [Update your iPhone or iPad — Apple Support](https://support.apple.com/en-us/118575)
 * [How to update your iPhone — Apple Support — YouTube](https://youtu.be/2Dk-DnXUeq4)
 * [How to update your iPad — Apple Support — YouTube](https://youtu.be/vrncRHDxF8o)
-* [Update your iPhone or iPad — Apple Support](https://support.apple.com/en-us/118575)
 * [How to manually update apps from the App Store — Apple Support](https://support.apple.com/en-us/102629)
 
 ### Android Phones & Tablets
@@ -158,13 +158,13 @@ This is a curated list of resources to help people protect themselves from the t
 
 ### Windows PC
 
-* [How to update Windows — Microsoft Help — YouTube](https://youtu.be/qnogHouIcfg)
 * [Install Windows Updates — Microsoft Support](https://support.microsoft.com/en-us/windows/install-windows-updates-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a)
+* [How to update Windows — Microsoft Help — YouTube](https://youtu.be/qnogHouIcfg)
 
 ### Mac
 
-* [How to update macOS on your Mac — Apple Support — YouTube](https://youtu.be/_y0ZEuUMz38)
 * [Update macOS on Mac — Apple Support](https://support.apple.com/en-us/108382)
+* [How to update macOS on your Mac — Apple Support — YouTube](https://youtu.be/_y0ZEuUMz38)
 * [How to manually update apps from the App Store — Apple Support](https://support.apple.com/en-us/102629)
 
 ### Chromebook
