@@ -212,6 +212,7 @@ Source: [https://xkcd.com/936](https://xkcd.com/936)
 ## Manage Your Passwords
 Never store your passwords in a spreadsheet, a text file, or any other type of unencrypted file on your computer or mobile device.
 
+* [What Is A Password Manager? Time To Log In Safer — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/password-managers)
 * [Animated Overview: Using Password Managers to Stay Safe Online — Surveillance Self-Defense](https://ssd.eff.org/en/module/animated-overview-using-password-managers-stay-safe-online)
 * [Choosing a Password Manager — Surveillance Self-Defense](https://ssd.eff.org/module/choosing-the-password-manager-that-s-right-for-you)
 
