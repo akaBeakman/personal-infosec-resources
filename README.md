@@ -250,6 +250,11 @@ Never store your passwords in a spreadsheet, a text file, or any other type of u
 * Microsoft Authenticator
     * [Download Microsoft Authenticator — Microsoft Support](https://support.microsoft.com/en-us/account-billing/download-microsoft-authenticator-351498fc-850a-45da-b7b6-27e523b8702a)
 
+## … or Go Passwordless and Use Passkeys
+
+* [Is No Password The Best Password? How Passkeys Work — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/is-no-password-the-best-password-how-passkeys-work)
+* [Passkeys Are the New Passwords. You Should Start Using Them Now. — Wirecutter](https://www.nytimes.com/wirecutter/reviews/what-are-passkeys/)
+
 ## Use Full Disk Encryption
 
 * [How to: Encrypt Your Windows, Mac, or Linux Computer — Surveillance Self-Defense](https://ssd.eff.org/module/how-encrypt-your-windows-device)
