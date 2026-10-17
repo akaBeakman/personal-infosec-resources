@@ -236,6 +236,7 @@ Never store your passwords in a spreadsheet, a text file, or any other type of u
 * [How to: Enable Two-factor Authentication — Surveillance Self-Defense](https://ssd.eff.org/module/how-enable-two-factor-authentication)
 * [Two-factor authentication for Apple Account — Apple Support](https://support.apple.com/en-us/102660)
 * [Turn on 2-Step Verification — Google Account — Google Help](https://support.google.com/accounts/answer/185839)
+* [How to use two-step verification with your Microsoft account — Microsoft Support](https://support.microsoft.com/en-us/accounts-billing/security/how-to-use-two-step-verification-with-your-microsoft-account)
 
 ### MFA Apps
 
