@@ -182,6 +182,12 @@ This is a curated list of resources to help people protect themselves from the t
 
 Source: [https://xkcd.com/936](https://xkcd.com/936)
 
+### Diceware
+
+* [Diceware — Wikipedia](https://en.wikipedia.org/wiki/Diceware)
+* [Animated Overview: How to Make a Super-Secure Password Using Dice — Surveillance Self-Defense](https://ssd.eff.org/en/module/animated-overview-how-make-super-secure-password-using-dice)
+* [EFF's Long Word List](https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt)
+
 ### Mobile Device Passcodes
 
 #### iPhone & iPad
@@ -192,11 +198,10 @@ Source: [https://xkcd.com/936](https://xkcd.com/936)
 * [Use a passcode with your iPhone, iPad, or iPod touch — Apple Support](https://support.apple.com/en-us/119586)
 * [How to change your passcode and turn on Stolen Device Protection on iPhone — Apple Support — YouTube](https://youtu.be/p7SLWJzdIj8)
 
-### Diceware
+#### Android Phones & Tablets
 
-* [Diceware — Wikipedia](https://en.wikipedia.org/wiki/Diceware)
-* [Animated Overview: How to Make a Super-Secure Password Using Dice — Surveillance Self-Defense](https://ssd.eff.org/en/module/animated-overview-how-make-super-secure-password-using-dice)
-* [EFF's Long Word List](https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt)
+* Use a PIN longer than six digits or a strong password
+* [Set screen lock on an Android device — Android — Google Help](https://support.google.com/android/answer/9079129)
 
 ## … and Don't Reuse Them
 
