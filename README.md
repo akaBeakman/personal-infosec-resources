@@ -290,7 +290,7 @@ Never store your passwords in a spreadsheet, a text file, or any other type of u
 * [Communicating With Others — Surveillance Self-Defense](https://ssd.eff.org/module/communicating-others)
 * [What is the difference between iMessage, RCS, and SMS/MMS? — Apple Support](https://support.apple.com/en-us/104972)
 
-### End-to-End Encrypted Communication Apps
+### End-to-End Encrypted Communication Apps / Services
 
 * [Signal](https://signal.org/)
     * [How to: Use Signal — Surveillance Self-Defense](https://ssd.eff.org/module/how-to-use-signal)
