@@ -302,6 +302,7 @@ Never store your passwords in a spreadsheet, a text file, or any other type of u
 ## Beware of Phishing
 
 * [What Is Phishing? How To Spot And Avoid Phishing Scams — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/phishing)
+* [How to: Avoid Phishing Attacks — Surveillance Self-Defense](https://ssd.eff.org/module/how-avoid-phishing-attacks)
 
 ## Avoid Scams
 
