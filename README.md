@@ -261,13 +261,12 @@ Never store your passwords in a spreadsheet, a text file, or any other type of u
 
 ### Windows PC
 
-* BitLocker
-    * [What is BitLocker and BitLocker recovery? — Microsoft Helps — YouTube](https://youtu.be/iX8QC2pRuYM)
+* [Device Encryption in Windows — Microsoft Support](https://support.microsoft.com/en-us/windows/security/encryption/device-encryption-in-windows)
+* [What is BitLocker and BitLocker recovery? — Microsoft Helps — YouTube](https://youtu.be/iX8QC2pRuYM)
 
 ### Mac
 
-* FileVault
-    * [Protect data on your Mac with FileVault — Apple Support](https://support.apple.com/guide/mac-help/protect-data-on-your-mac-with-filevault-mh11785/mac)
+* [Protect data on your Mac with FileVault — Apple Support](https://support.apple.com/guide/mac-help/protect-data-on-your-mac-with-filevault-mh11785/mac)
 
 ## Browse the Web (a Bit More) Privately and Securely
 
