@@ -360,14 +360,16 @@ Never store your passwords in a spreadsheet, a text file, or any other type of u
 * [Schedule a safety check on your Pixel phone — Google Help — YouTube](https://youtu.be/NsapBwmyk58)
 * [Use your Galaxy phone or tablet in emergency situations — Samsung](https://www.samsung.com/us/support/answer/ANS10001579/)
 
-## Resources for Victims of Stalking and Domestic Violence
+## Resources for Victims of Sextortion, Stalking, and Domestic Violence
 
 * [National Domestic Violence Hotline](https://www.thehotline.org)
     * Internet usage can be monitored and is impossible to erase completely. If you’re concerned your internet usage might be monitored, call the National Domestic Violence Hotline at 800.799.SAFE (7233).
-* [Stalkerware detection, removal and prevention — Coalition Against Stalkerware](https://stopstalkerware.org/information-for-survivors/)
+* [Sextortion: What It Is, How It Works, And What To Do If It Happens To You — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/sextortion-what-it-is-how-it-works-and-what-to-do-if-it-happens-to-you)
+* [Stalkerware detection, removal and prevention — Coalition Against Stalkerware](https://stopstalkerware.org/stalkerware-detection-removal-and-prevention/)
 * [Safety Check for an iPhone with iOS 16 or later — Apple Support](https://support.apple.com/guide/personal-safety/safety-check-iphone-ios-16-ips2aad835e1/web)
     * Safety Check allows you to quickly review, update and stop sharing your information with individual people and apps.
 * [How to use Safety Check on your iPhone — Apple Support — YouTube](https://youtu.be/y9QX-0IVQL4)
+* [How to: Detect Bluetooth Trackers — Surveillance Self-Defense](https://ssd.eff.org/module/how-to-detect-bluetooth-trackers)
 * [Detect unwanted trackers — Apple Support](https://support.apple.com/guide/personal-safety/detect-unwanted-trackers-ips139b15fd9/)
 * [How to locate an unknown AirTag moving with you on iPhone — Apple Support — YouTube](https://youtu.be/mGh7-IuPRR4)
 * [Find unknown trackers — Android — Google Help](https://support.google.com/android/answer/13658562)
