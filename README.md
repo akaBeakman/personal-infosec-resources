@@ -332,6 +332,7 @@ Never store your passwords in a spreadsheet, a text file, or any other type of u
 
 * [Smart Girl's Guide to Privacy — No Starch Press](https://nostarch.com/smartgirlsguide)
 * [Share With Care: Staying Safe On Social Media — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/share-with-care-staying-safe-on-social-media)
+* [Don’t Give Away Historic Details About Yourself — Krebs on Security](https://krebsonsecurity.com/2018/04/dont-give-away-historic-details-about-yourself/)
 * [How to: Manage Your Digital Footprint — Surveillance Self-Defense](https://ssd.eff.org/module/how-to-manage-your-digital-footprint)
 * [What to do before you sell, give away, or trade in your iPhone or iPad — Apple Support](https://support.apple.com/en-us/109511)
 * [How to erase and reset your Mac to factory settings — Apple Support — YouTube](https://youtu.be/5ZK3KD3hmiI)
