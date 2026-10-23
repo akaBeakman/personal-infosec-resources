@@ -222,7 +222,7 @@ Never store your passwords in a spreadsheet, a text file, or any other type of u
 
 * [1Password](https://1password.com)
     * [How to Get the Most Out of 1Password — Wirecutter](https://www.nytimes.com/wirecutter/guides/how-to-use-1password/)
-* [BitWarden](https://bitwarden.com)
+* [Bitwarden](https://bitwarden.com)
 * Apple Passwords app
     * [Use the Passwords app to create, manage, and share passwords and passkeys across Apple devices — Apple Support](https://support.apple.com/en-us/120758)
     * [How to find saved passwords and passkeys in the Passwords app on iPhone and iPad — Apple Support — YouTube](https://youtu.be/1WrogLzTK1k)
