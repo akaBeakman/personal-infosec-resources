@@ -310,6 +310,8 @@ Never store your passwords in a spreadsheet, a text file, or any other type of u
 * [Frauds, Scams and Alerts — Consumer Guides — Federal Communications Commission](https://www.fcc.gov/general/frauds-scams-and-alerts-guides)
 * [How To Avoid a Scam — Consumer Advice — Federal Trade Commission](https://consumer.ftc.gov/articles/how-avoid-scam)
 * [What To Do if You Were Scammed — Consumer Advice — Federal Trade Commission](https://consumer.ftc.gov/articles/what-do-if-you-were-scammed)
+* [IdentityTheft.gov](https://www.identitytheft.gov/)
+    * Report identity theft and get a recovery plan
 * [Identity Theft Guide for Individuals — Internal Revenue Service](https://www.irs.gov/identity-theft-central/identity-theft-guide-for-individuals)
 * [Protect Yourself from Social Security Scams — Social Security Administration](https://www.ssa.gov/scam/)
 * [How To Avoid Scams And Fraud — National Cybersecurity Alliance](https://www.staysafeonline.org/articles/how-to-avoid-scams)
